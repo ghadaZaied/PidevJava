@@ -29,7 +29,7 @@ public class ViewDemande {
 
     @FXML
     private TableView<Demande> tableView;
-zz
+
     private final ServiceDemande serviceDemandeService = new ServiceDemande();
 
     @FXML
